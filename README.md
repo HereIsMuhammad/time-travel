@@ -1,4 +1,4 @@
-# タイムマシン | timeMachine ⏳
+# Time travel 
 
 > Documenting everything I learn about gravity, black holes, and the mysteries of time.
 
