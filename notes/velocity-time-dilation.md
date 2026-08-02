@@ -53,7 +53,7 @@ GPS satellites orbit at about **14,000 km/h**. Because of their speed, their onb
 Net effect: GPS clocks gain about **38 microseconds per day** compared to Earth clocks. Doesn't sound like much, but without correcting for it, GPS location errors would pile up by about **10 km per day**. Engineers literally program this relativity correction into every GPS satellite.
 
 
-## 👯 The Twin Paradox
+## The Twin Paradox
 
 The most famous thought experiment on this topic:
 
