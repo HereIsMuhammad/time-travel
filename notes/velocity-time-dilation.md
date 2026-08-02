@@ -1,9 +1,9 @@
-# 🏎️ Velocity Time Dilation
+# Velocity Time Dilation
 
 > "Time is not absolute. It moves differently for everyone, depending on how fast they move.", the core idea behind Einstein's Special Relativity (1905)
 
 
-## 🚂 The Thought Experiment
+## The Thought Experiment
 
 Imagine your friend gets on a spaceship and flies away at **90% the speed of light**, then comes back. When she lands, she's aged only a few months, but you? You've aged 10 years.
 
@@ -12,7 +12,7 @@ She didn't age slower because of some magic. **Time itself moved slower for her*
 This isn't science fiction, it's a real, measured, proven effect called **Velocity Time Dilation**.
 
 
-## 🧮 The Core Idea
+## The Core Idea
 
 The faster an object moves (relative to an observer), the slower time passes for it, *from the observer's point of view.*
 
@@ -31,7 +31,7 @@ Where:
 **Key takeaway:** as `v` gets closer to `c`, the denominator gets closer to 0, meaning `t'` grows huge. Time almost stops for anything approaching light speed.
 
 
-## 📊 How Much Does It Actually Matter?
+## How Much Does It Actually Matter?
 
 | Speed (% of light speed) | Time slows by |
 |---|---|
@@ -44,7 +44,7 @@ Where:
 At everyday speeds (cars, planes), the effect is so tiny it's basically unnoticeable. But it's not zero, and we've *measured* it.
 
 
-## 🛰️ Real World Proof: GPS Satellites
+## Real World Proof: GPS Satellites
 
 This isn't just theory, your phone's GPS depends on it.
 
@@ -66,12 +66,12 @@ It's called a "paradox" because from the traveling twin's perspective, it looks 
 The resolution: it's **not symmetric**. The traveling twin had to accelerate, decelerate, and turn around. She changed reference frames. The Earth twin didn't. That break in symmetry is what makes the traveling twin definitively younger.
 
 
-## 🧠 Mind-Bender
+## Mind-Bender
 
 If you could travel at 99.9999% the speed of light to a star 100 light-years away and back, only a few weeks might pass *for you*, while **200 years** pass on Earth. You'd return to a world that has moved on entirely without you.
 
 
-## 🔑 Key Takeaways
+## Key Takeaways
 
 - Time dilation isn't an illusion, it's a real, physical effect on time itself.
 - It only becomes significant at speeds close to the speed of light.
