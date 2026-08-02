@@ -20,7 +20,7 @@ Topics I'm currently studying, one mind-bender at a time:
 
 ### About
 
-Documenting everything I learn about gravity, black holes, and the mysteries of time — one concept, one equation, one "wait, WHAT?" moment at a time.
+Documenting everything I learn about gravity, black holes, and the mysteries of time. One concept, one equation, one "wait, WHAT?" moment at a time.
 
 **Topics:** `physics` `relativity` `black-holes` `time-dilation` `spacetime`
 
