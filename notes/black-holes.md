@@ -1,9 +1,6 @@
 # Black Holes & Spacetime Singularities
 
 > "Black holes are where God divided by zero." This is the point where gravitational time dilation, from the last notes, gets pushed to its absolute breaking point.
-
-  ![First Image of a Black Hole](../assets/images/event-horizon.jpg)
-   *The black hole at the center of galaxy M87, captured by the Event Horizon Telescope. (Credit: EHT Collaboration)*
    
 ## What Is a Black Hole, Really?
 
