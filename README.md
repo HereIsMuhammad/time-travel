@@ -8,9 +8,9 @@ This repo is my personal logbook, documenting everything I learn about **gravity
 
 Topics I'm currently studying, one mind-bender at a time:
 
-- [ ] **Gravitational Time Dilation** (How gravity bends time)
+- [x] **Gravitational Time Dilation** (How gravity bends time)
 - [x] **Velocity Time Dilation** (Speed vs Time)
-- [ ] **Black Holes & Spacetime Singularities**
+- [x] **Black Holes & Spacetime Singularities**
 
 *(check these off as I write detailed notes for each!)*
 
@@ -27,9 +27,9 @@ Documenting everything I learn about gravity, black holes, and the mysteries of 
 ### Roadmap
 
 - [x] Set up the repo
-- [ ] Write detailed notes on Gravitational Time Dilation
+- [x] Write detailed notes on Gravitational Time Dilation
 - [x] Write detailed notes on Velocity Time Dilation
-- [ ] Write detailed notes on Black Holes
+- [x] Write detailed notes on Black Holes
 - [ ] Add diagrams for spacetime curvature
 - [ ] Add real-world examples (GPS satellites, twin paradox)
 
