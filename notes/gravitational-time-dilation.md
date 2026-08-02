@@ -2,6 +2,9 @@
 
 > "Put a clock at sea level and one on a mountain. Wait a while. They no longer agree." This is the strange, real consequence of Einstein's General Relativity (1915).
 
+![Spacetime Curvature](https://www.ligo.caltech.edu/system/media_files/binaries/266/original/162571main_GPB_circling_earth3_516.jpg?1446243770)
+*Two-dimensional illustration of how mass distorts space-time. (Credit: NASA)*
+
 ## The Thought Experiment
 
 Imagine two identical clocks. One sits at sea level. The other sits on top of a tall mountain, far from Earth's center of mass.
