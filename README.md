@@ -8,8 +8,8 @@ This repo is my personal logbook, documenting everything I learn about **gravity
 
 Topics I'm currently studying, one mind-bender at a time:
 
-- [ ] **Gravitational Time Dilation** — How gravity bends time
-- [x] **Velocity Time Dilation** — Speed vs Time
+- [ ] **Gravitational Time Dilation** (How gravity bends time)
+- [x] **Velocity Time Dilation** (Speed vs Time)
 - [ ] **Black Holes & Spacetime Singularities**
 
 *(check these off as I write detailed notes for each!)*
