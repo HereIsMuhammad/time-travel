@@ -16,7 +16,7 @@ Topics I'm currently studying, one mind-bender at a time:
 
 ### Mind-Bender of the Day
 
-> If you fell into a black hole, someone watching from far away would see you slow down and freeze at the event horizon forever. But from *your* point of view? You'd cross it without feeling a thing right before spaghettification gets you. 
+> If you fell into a black hole, someone watching from far away would see you slow down and freeze at the event horizon forever. But from *your* point of view? You'd cross it without feeling a thing right before gets you. 
 
 ### About
 
