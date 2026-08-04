@@ -28,7 +28,7 @@ Documenting everything I learn about gravity, black holes, and the mysteries of 
 
 - [x] Set up the repo
 - [x] Write detailed notes on Gravitational Time Dilation
-- [x] Write detailed notes on Velocity Time Dilation
+- [x] Write detailed notes on Velocity Time Dilatio
 - [x] Write detailed notes on Black Holes
 - [ ] Add diagrams for spacetime curvature
 - [ ] Add real-world examples (GPS satellites, twin paradox)
