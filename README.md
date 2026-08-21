@@ -6,10 +6,12 @@
 
 > What if you traveled at the speed of light? What if a black hole swallowed you whole? Would time still tick the same way for you as it does for everyone else?
 
+[![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Made with Physics](https://img.shields.io/badge/Made%20with-Physics-6f42c1?style=for-the-badge)](https://en.wikipedia.org/wiki/Physics)
 [![Topic Relativity](https://img.shields.io/badge/Topic-Relativity-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://en.wikipedia.org/wiki/Theory_of_relativity)
 [![Black Holes](https://img.shields.io/badge/Black%20Holes-Spacetime-000000?style=for-the-badge&logo=starship&logoColor=white)](https://en.wikipedia.org/wiki/Black_hole)
 [![Time Dilation](https://img.shields.io/badge/Time-Dilation-ff69b4?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_dilation)
+[![Status Active](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/HereIsMuhammad/time-travel)
 
 [![GitHub stars](https://img.shields.io/github/stars/HereIsMuhammad/time-travel?style=for-the-badge&color=yellow)](https://github.com/HereIsMuhammad/time-travel/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HereIsMuhammad/time-travel?style=for-the-badge&color=blue)](https://github.com/HereIsMuhammad/time-travel/network/members)
@@ -75,7 +77,7 @@ cd time-travel/notes
 
 ## 📜 License
 
-Feel free to read, learn, and share these notes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
